@@ -1,7 +1,8 @@
 # BASH
-#!/bin/bash
+# !/bin/bash
 # AUTOR: Ladislau M.
 # DATA: 22/06/2021
+# version 1.0
 # ----------------------Requisitos------------------------
 # instalar nmap ===> sudo apt-get install nmap
 # instalar figlet ===> sudo apt-get install figlet
